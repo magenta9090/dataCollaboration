@@ -1,0 +1,4 @@
+[09-Feb-2015 13:33:03 America/New_York] PHP Parse error:  syntax error, unexpected 'jdb_' (T_STRING), expecting ',' or ';' in /home/norlab1/public_html/configuration.php on line 19
+[09-Feb-2015 13:39:18 America/New_York] PHP Parse error:  syntax error, unexpected 'jdb_' (T_STRING), expecting ',' or ';' in /home/norlab1/public_html/configuration.php on line 19
+[09-Feb-2015 13:39:59 America/New_York] PHP Parse error:  syntax error, unexpected 'jdb_' (T_STRING), expecting ',' or ';' in /home/norlab1/public_html/configuration.php on line 19
+[09-Feb-2015 14:16:05 America/New_York] PHP Parse error:  syntax error, unexpected 'jdb_' (T_STRING), expecting ',' or ';' in /home/norlab1/public_html/configuration.php on line 19
